@@ -8,7 +8,7 @@ function* multiplication(x) {
       }
       
 } 
-var num = multiplication(3);
+let num = multiplication(3);
 
 for ( i = 0; i < 3; i++) {
     
